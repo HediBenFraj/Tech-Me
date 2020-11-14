@@ -1,3 +1,9 @@
+You can try the app @:https://hedibenfraj.github.io/Tech-Me/
+or locally by :
+1) cloning the app 
+2) running npm install 
+3) npm Start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
