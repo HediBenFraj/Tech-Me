@@ -1,0 +1,27 @@
+.navbar{
+    position: fixed;
+    top: 0%;
+    z-index: 5;
+    left: 0%;
+    height: 10vh;
+    width: 100vw;
+    background: rgba(0,0,0,0.5);
+    display: flex;
+    padding: 0 20px;
+    align-items: center;
+}
+
+.logo{
+    background: cyan;
+    border-radius: 50%;
+    border: 1ps solid red;
+    width: 40px;
+    height: 40px;
+}
+
+.Title{
+    color: white;
+    transform: translateX(-20px);
+    font-size: 1.3rem;
+    font-weight: bold;
+}
